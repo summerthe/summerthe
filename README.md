@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm the summer(not the season one LOL).
+### Hi there, 👋 I'm the summer.
 ---
 
 Fullstack developer with React and Django Stack.
