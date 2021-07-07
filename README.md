@@ -3,4 +3,4 @@
 
 Fullstack developer with React and Django Stack.
 
-Planning to Learn Rust, Web assembly and Angular.
+Planning to Learn Rust, Web assembly and socket.
